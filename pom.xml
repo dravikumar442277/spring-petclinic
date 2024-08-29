@@ -36,6 +36,13 @@
     <spring-format.version>0.0.40</spring-format.version>
 
   </properties>
+  <properties>
+    <sonar.host.url>http://34.72.2.204:9000/</sonar.host.url>
+    <sonar.login>7fe0c137596e721e4dc445f2c018fe56b6c60103</sonar.login>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
 
   <dependencies>
     <!-- Spring and Spring Boot dependencies -->
